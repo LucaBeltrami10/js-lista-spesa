@@ -1,0 +1,1 @@
+const listaSpesa = ['latte', 'uova', 'farina', 'cetrioli', 'burro', 'scottex']
